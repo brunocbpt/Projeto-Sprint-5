@@ -1,5 +1,3 @@
-# sprint-5
-
 # Projeto Sprint 5
 
  # 📊 Anúncios de Vendas de Carros – Dashboard Interativo
